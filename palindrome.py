@@ -6,6 +6,6 @@ while(n>0):
   reverse=reverse*10+dig
   n=n/10
 if(temp==reverse):
-  print("palindrome")
+  print("yes")
 else:
-print("not")
+  print("no")
