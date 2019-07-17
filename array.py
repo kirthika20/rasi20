@@ -1,3 +1,3 @@
-m=int(input())
-x=map(int,input().split())
-print(max(x))
+digit=int(input())
+t=map(int,input().split())
+print(max(t))
